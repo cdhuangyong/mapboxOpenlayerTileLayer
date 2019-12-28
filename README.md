@@ -1,2 +1,4 @@
 # mapboxOpenlayerTileLayer
 基于openlayer封装的自定义底图，支持各种坐标系的底图重投影后渲染到mapbox
+
+index.html 展示的是叠加EPSG:4326底图
